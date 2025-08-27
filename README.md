@@ -1,1 +1,1 @@
-Robot que envia e-mails aos aniversariantes.
+Teste de BD de logs com dashboard
